@@ -1,2 +1,2 @@
 # projetos_pessoais
-Local com todos os mesu projetos pessoais
+Local com todos os meus projetos pessoais
